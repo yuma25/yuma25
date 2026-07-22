@@ -1,30 +1,39 @@
 # Hi there, I'm Yuma (yuma25) 👋
 
-現在，大学でコンピュータサイエンスを学んでいる学生デベロッパーです．Web技術やJavaによるデスクトップアプリケーション，Goを用いたバックエンド開発に関心があり，設計手法やモダンな技術スタックの学習に取り組んでいます．
+現在，大学でコンピュータサイエンスを学んでいる学生デベロッパーです．主にWebアプリケーションのフロントエンドからバックエンド，AR（拡張現実）技術やデスクトップアプリなど，幅広く技術への興味を持って学習に取り組んでいます．
 
-🔗 **[Portfolio Website (GitHub Pages)](https://yuma25.github.io/)**
+🎨 制作した各プロジェクトの詳細やデモ動画については，**[ポートフォリオサイト (yuma25.github.io)](https://yuma25.github.io/)** にて詳しく紹介しています．
 
 ---
 
-## 🛠 Featured Projects
+## 💻 Tech Stack & Interests
 
-### 🚀 [ATD26_science-art](https://github.com/yuma25/ATD26_science-art)
-AR（拡張現実）技術を用いた絵画コレクション・管理Webアプリケーションです．実世界の画像認識（MindAR.js）を通じて3D作品を発見し，獲得した作品のデジタル図録をユーザーごとに永続化・管理します．Next.js 16，TypeScript，Supabase，Drizzle ORM，Redisなどの技術を採用し，クリーンアーキテクチャに準拠したモノレポ構成で開発しています．
-
-<p align="center">
-  <a href="https://youtu.be/DSTXw9Lhr3w" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/DSTXw9Lhr3w/maxresdefault.jpg" alt="ATD26_SCIENCE-ART デモ動画" width="600" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
-  </a>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### 🔔 [Uni-Steps](https://github.com/yuma25/Uni-Steps)
-起床確認SOSアラートおよび課題リマインドAI通知を軸とした，学生の日常生活と学習支援を行うバックエンドシステムです．Go言語とGORM，PostgreSQLを採用し，データベースとAPI通信間のデータ構造体マッピング（JSONタグとORMタグ）の最適化やGORMのアソシエーション制御を実装しています．
+### Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-### 📁 [Assignment](https://github.com/yuma25/Assignment)
-大学の講義（実習ICTおよびプログラミング演習II）において制作した課題成果物を集約したリポジトリです．Flaskを用いたセキュアな日記投稿Webアプリケーションや，JavaFXによるMVC設計のじゃんけんゲーム，画像処理アルゴリズムに基づいて任意のPNG画像を文字へと変換するASCII Art生成機などを含んでいます．
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://youtu.be/gXPIKF_XWUw" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/gXPIKF_XWUw/maxresdefault.jpg" alt="Assignment デモ動画" width="600" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuma25&show_icons=true&theme=transparent&text_color=f3f4f6&icon_color=8b5cf6&title_color=3b82f6" alt="yuma25's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuma25&layout=compact&theme=transparent&text_color=f3f4f6&title_color=3b82f6" alt="yuma25's Top Languages" width="48%">
 </p>
