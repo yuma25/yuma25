@@ -2,16 +2,16 @@
   <img src="header.svg" width="100%" alt="Header Banner" />
 </p>
 
-## 🙋‍♂️ About Me
+## About Me
 
 現在，大学でコンピュータサイエンスを学んでいます．
 Webアプリケーション開発に焦点を当て，フロントエンドからバックエンドまで一貫した技術の習得に取り組んでいます．
 
-[![Portfolio & Blog](https://img.shields.io/badge/Portfolio%20&%20Blog-yuma25--portfolio.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://yuma25-portfolio.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20&%20Blog-yuma25--portfolio.pages.dev-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://yuma25-portfolio.pages.dev/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 | 分野                  | 技術スタック                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
