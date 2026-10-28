@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="76" viewBox="0 0 64 76" fill="none">
+  <defs>
+    <!-- iOS風ダークアプリアイコン -->
+    <linearGradient id="iosBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2C2C2E"/>
+      <stop offset="100%" stop-color="#1C1C1E"/>
+    </linearGradient>
+    <linearGradient id="edgeHighlight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+
+  <!-- iOS Squircle アプリアイコン本体 (48x48) -->
+  <g transform="translate(8, 4)">
+    <rect width="48" height="48" rx="11" fill="url(#iosBg)"/>
+    <rect width="48" height="48" rx="11" stroke="url(#edgeHighlight)" stroke-width="1"/>
+    <!-- 地球儀アイコン -->
+    <g transform="translate(12, 12)" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <circle cx="12" cy="12" r="10"/>
+      <path d="M2 12h20"/>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+    </g>
+  </g>
+
+  <!-- ダークモード（黒背景）用: くっきり見える白文字 -->
+  <text x="32" y="68" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="-0.1px" fill="#F0F6FC">Portfolio</text>
+</svg>
