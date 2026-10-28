@@ -93,7 +93,7 @@
 
     <!-- テキスト要素 -->
     <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" class="title">
-      Hi there, I'm Yuma 👋
+      Hi there, I'm Yuma 
     </text>
     <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="subtitle">
       Web Developer · Frontend &amp; Backend
