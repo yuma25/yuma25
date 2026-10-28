@@ -9,8 +9,7 @@ Webアプリケーション開発に焦点を当て，フロントエンドか�
 
 <p align="left">
   <a href="https://yuma25-portfolio.pages.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="portfolio-light.svg#gh-light-mode-only" alt="Portfolio" width="64" />
-    <img src="portfolio-dark.svg#gh-dark-mode-only" alt="Portfolio" width="64" />
+    <img src="portfolio.svg" alt="Portfolio" width="64" />
   </a>
 </p>
 
